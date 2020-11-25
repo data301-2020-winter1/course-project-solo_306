@@ -17,7 +17,7 @@ The dataset was provided by Hadi Fanaee-T on the UCI Machine Learning Repository
 Nathan Deng
 
 ## References
-https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+https://archive.ics.uci.edu/ml/datasets/bike+sharing+datase
 Original Source: http://capitalbikeshare.com/system-data
 Weather Information: http://www.freemeteo.com
 Holiday Schedule: http://dchr.dc.gov/page/holiday-schedule
