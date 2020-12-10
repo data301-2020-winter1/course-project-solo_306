@@ -1,4 +1,4 @@
-# Group 6007 {Biking Sharing System}
+# solo 306 {Biking Sharing System}
 
 ## Milestone
 Details for Milestone are available on Canvas (left sidebar, Course Project) or https://firas.moosvi.com/courses/data301/project/milestone01.html
